@@ -1,0 +1,52 @@
+00:09:19.868 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Account link
+00:09:20.617 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Register link
+00:09:20.617 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on customer details.....
+00:09:22.235 [main] INFO  testCases.TC01_AccountRegistrationTest - Click validating expected message
+00:09:22.299 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Finish TC01_AccountRegistrationTest ****
+00:09:29.308 [main] INFO  testCases.TC02_LoginTest - **** staring TC02_LoginTest ****
+00:09:31.512 [main] INFO  testCases.TC02_LoginTest - **** Finish TC02_LoginTest ****
+16:54:26.043 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\master.xml
+
+16:56:34.245 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\master.xml
+
+16:58:45.751 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\master.xml
+
+17:00:41.791 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\crossbrowsingtest.xml
+
+17:02:08.257 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\master.xml
+
+17:04:47.787 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\master.xml
+
+17:06:10.094 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\master.xml
+
+17:06:16.011 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Starting TC01_AccountRegistrationTest ****
+17:06:16.216 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Account link
+17:06:16.809 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Register link
+17:06:16.811 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on customer details.....
+17:06:18.316 [main] INFO  testCases.TC01_AccountRegistrationTest - Click validating expected message
+17:06:18.374 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Finish TC01_AccountRegistrationTest ****
+17:06:21.958 [main] INFO  testCases.TC02_LoginTest - **** staring TC02_LoginTest ****
+17:06:23.695 [main] INFO  testCases.TC02_LoginTest - **** Finish TC02_LoginTest ****
+17:07:25.256 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Starting TC01_AccountRegistrationTest ****
+17:07:25.603 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Account link
+17:07:26.274 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Register link
+17:07:26.281 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on customer details.....
+17:07:27.746 [main] INFO  testCases.TC01_AccountRegistrationTest - Click validating expected message
+17:07:27.796 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Finish TC01_AccountRegistrationTest ****
+17:07:31.222 [main] INFO  testCases.TC02_LoginTest - **** staring TC02_LoginTest ****
+17:07:33.097 [main] INFO  testCases.TC02_LoginTest - **** Finish TC02_LoginTest ****
+18:01:49.261 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Starting TC01_AccountRegistrationTest ****
+18:01:49.477 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Account link
+18:01:50.142 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Register link
+18:01:50.146 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on customer details.....
+18:01:51.770 [main] INFO  testCases.TC01_AccountRegistrationTest - Click validating expected message
+18:01:51.847 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Finish TC01_AccountRegistrationTest ****
+18:01:56.866 [main] INFO  testCases.TC02_LoginTest - **** staring TC02_LoginTest ****
+18:01:58.622 [main] INFO  testCases.TC02_LoginTest - **** Finish TC02_LoginTest ****

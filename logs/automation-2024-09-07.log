@@ -1,0 +1,62 @@
+18:12:45.406 [main] INFO  testCases.TC01_AccountRegistrationTest - Click validating expected message
+18:12:45.460 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Finish TC01_AccountRegistrationTest ****
+18:12:49.364 [main] INFO  testCases.TC02_LoginTest - **** staring TC02_LoginTest ****
+18:12:51.062 [main] INFO  testCases.TC02_LoginTest - **** Finish TC02_LoginTest ****
+18:16:32.236 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\master.xml
+
+18:16:37.234 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Starting TC01_AccountRegistrationTest ****
+18:16:37.444 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Account link
+18:16:38.114 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Register link
+18:16:38.116 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on customer details.....
+18:16:39.729 [main] INFO  testCases.TC01_AccountRegistrationTest - Click validating expected message
+18:16:39.774 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Finish TC01_AccountRegistrationTest ****
+18:16:43.262 [main] INFO  testCases.TC02_LoginTest - **** staring TC02_LoginTest ****
+18:16:44.906 [main] INFO  testCases.TC02_LoginTest - **** Finish TC02_LoginTest ****
+23:52:08.002 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\grid-docker.xml
+
+23:52:08.599 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Starting TC01_AccountRegistrationTest ****
+23:52:08.648 [main] ERROR testCases.TC01_AccountRegistrationTest - Test failed...
+23:56:31.211 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\grid-docker.xml
+
+23:56:31.622 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Starting TC01_AccountRegistrationTest ****
+23:56:31.660 [main] ERROR testCases.TC01_AccountRegistrationTest - Test failed...
+23:58:11.755 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\master.xml
+
+00:01:28.353 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\grid-docker.xml
+
+00:01:35.146 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Starting TC01_AccountRegistrationTest ****
+00:01:35.653 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Account link
+00:01:36.320 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Register link
+00:01:36.323 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on customer details.....
+00:01:38.500 [main] INFO  testCases.TC01_AccountRegistrationTest - Click validating expected message
+00:01:38.639 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Finish TC01_AccountRegistrationTest ****
+00:01:42.163 [main] INFO  testCases.TC02_LoginTest - **** staring TC02_LoginTest ****
+00:01:44.207 [main] INFO  testCases.TC02_LoginTest - **** Finish TC02_LoginTest ****
+00:07:12.167 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\grid-docker.xml
+
+00:07:21.457 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Starting TC01_AccountRegistrationTest ****
+00:07:21.848 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Account link
+00:07:22.574 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Register link
+00:07:22.575 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on customer details.....
+00:07:24.311 [main] INFO  testCases.TC01_AccountRegistrationTest - Click validating expected message
+00:07:24.413 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Finish TC01_AccountRegistrationTest ****
+00:07:31.647 [main] INFO  testCases.TC02_LoginTest - **** staring TC02_LoginTest ****
+00:07:33.856 [main] INFO  testCases.TC02_LoginTest - **** Finish TC02_LoginTest ****
+00:09:00.804 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\grid-docker.xml
+
+00:09:05.245 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Starting TC01_AccountRegistrationTest ****
+00:09:05.518 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Account link
+00:09:06.228 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Register link
+00:09:06.230 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on customer details.....
+00:09:08.161 [main] INFO  testCases.TC01_AccountRegistrationTest - Click validating expected message
+00:09:08.270 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Finish TC01_AccountRegistrationTest ****
+00:09:11.208 [main] INFO  testCases.TC02_LoginTest - **** staring TC02_LoginTest ****
+00:09:13.326 [main] INFO  testCases.TC02_LoginTest - **** Finish TC02_LoginTest ****
+00:09:19.514 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Starting TC01_AccountRegistrationTest ****

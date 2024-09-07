@@ -1,0 +1,56 @@
+16:21:55.141 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\master.xml
+
+16:22:00.445 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Starting TC01_AccountRegistrationTest ****
+16:22:00.556 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Account link
+16:22:01.188 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Register link
+16:22:01.190 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on customer details.....
+16:22:02.812 [main] INFO  testCases.TC01_AccountRegistrationTest - Click validating expected message
+16:22:02.861 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Finish TC01_AccountRegistrationTest ****
+16:22:26.157 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\master.xml
+
+16:22:30.768 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Starting TC01_AccountRegistrationTest ****
+16:22:30.902 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Account link
+16:22:31.526 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Register link
+16:22:31.529 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on customer details.....
+16:22:33.078 [main] INFO  testCases.TC01_AccountRegistrationTest - Click validating expected message
+16:22:33.128 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Finish TC01_AccountRegistrationTest ****
+16:30:19.315 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\crossbrowsingtest.xml
+
+16:30:23.467 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Starting TC01_AccountRegistrationTest ****
+16:30:23.669 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Account link
+16:30:24.283 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Register link
+16:30:24.287 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on customer details.....
+16:30:25.716 [main] INFO  testCases.TC01_AccountRegistrationTest - Click validating expected message
+16:30:25.761 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Finish TC01_AccountRegistrationTest ****
+16:30:25.997 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Starting TC01_AccountRegistrationTest ****
+16:30:25.997 [main] ERROR testCases.TC01_AccountRegistrationTest - Test failed...
+16:30:57.222 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\crossbrowsingtest.xml
+
+16:31:03.595 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Starting TC01_AccountRegistrationTest ****
+16:31:03.738 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Account link
+16:31:04.451 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Register link
+16:31:04.454 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on customer details.....
+16:31:05.371 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Starting TC01_AccountRegistrationTest ****
+16:31:05.777 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Account link
+16:31:06.659 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Register link
+16:31:06.660 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on customer details.....
+16:31:07.866 [main] INFO  testCases.TC01_AccountRegistrationTest - Click validating expected message
+16:31:07.914 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Finish TC01_AccountRegistrationTest ****
+16:31:08.143 [main] INFO  testCases.TC01_AccountRegistrationTest - Click validating expected message
+16:31:08.202 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Finish TC01_AccountRegistrationTest ****
+16:31:14.430 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Starting TC01_AccountRegistrationTest ****
+16:31:14.550 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Account link
+16:31:15.201 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Register link
+16:31:15.203 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on customer details.....
+16:31:16.654 [main] INFO  testCases.TC01_AccountRegistrationTest - Click validating expected message
+16:31:16.694 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Finish TC01_AccountRegistrationTest ****
+16:31:27.551 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Starting TC01_AccountRegistrationTest ****
+16:31:27.899 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Account link
+16:31:28.505 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Register link
+16:31:28.506 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on customer details.....
+16:31:30.021 [main] INFO  testCases.TC01_AccountRegistrationTest - Click validating expected message
+16:31:30.053 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Finish TC01_AccountRegistrationTest ****

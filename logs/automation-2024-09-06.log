@@ -1,0 +1,69 @@
+14:15:52.727 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\grouping.xml
+
+14:15:59.780 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Starting TC01_AccountRegistrationTest ****
+14:15:59.980 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Account link
+14:16:00.804 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Register link
+14:16:00.806 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on customer details.....
+14:16:02.716 [main] INFO  testCases.TC01_AccountRegistrationTest - Click validating expected message
+14:16:02.764 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Finish TC01_AccountRegistrationTest ****
+14:16:06.847 [main] INFO  testCases.TC02_LoginTest - **** staring TC02_LoginTest ****
+14:16:08.441 [main] INFO  testCases.TC02_LoginTest - **** Finish TC02_LoginTest ****
+14:22:08.976 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\grouping.xml
+
+14:22:14.306 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Starting TC01_AccountRegistrationTest ****
+14:22:14.429 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Account link
+14:22:15.066 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Register link
+14:22:15.075 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on customer details.....
+14:22:16.981 [main] INFO  testCases.TC01_AccountRegistrationTest - Click validating expected message
+14:22:17.049 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Finish TC01_AccountRegistrationTest ****
+14:22:21.063 [main] INFO  testCases.TC02_LoginTest - **** staring TC02_LoginTest ****
+14:30:20.883 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\master.xml
+
+14:30:26.762 [main] INFO  testCases.TC03_LoginDDT - *** Staring TC03_LoginDDT ****
+14:30:28.937 [main] INFO  testCases.TC03_LoginDDT - *** Finish TC03_LoginDDT ****
+14:30:28.955 [main] INFO  testCases.TC03_LoginDDT - *** Staring TC03_LoginDDT ****
+14:30:40.137 [main] INFO  testCases.TC03_LoginDDT - *** Finish TC03_LoginDDT ****
+14:30:40.145 [main] INFO  testCases.TC03_LoginDDT - *** Staring TC03_LoginDDT ****
+14:30:51.446 [main] INFO  testCases.TC03_LoginDDT - *** Finish TC03_LoginDDT ****
+14:30:51.457 [main] INFO  testCases.TC03_LoginDDT - *** Staring TC03_LoginDDT ****
+14:31:02.952 [main] INFO  testCases.TC03_LoginDDT - *** Finish TC03_LoginDDT ****
+14:32:44.553 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\master.xml
+
+14:32:52.010 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Starting TC01_AccountRegistrationTest ****
+14:32:52.108 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Account link
+14:32:53.201 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Register link
+14:32:53.203 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on customer details.....
+14:32:54.679 [main] INFO  testCases.TC01_AccountRegistrationTest - Click validating expected message
+14:32:54.759 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Finish TC01_AccountRegistrationTest ****
+14:32:58.832 [main] INFO  testCases.TC02_LoginTest - **** staring TC02_LoginTest ****
+14:37:38.825 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\test-output\testng-failed.xml
+
+14:37:43.388 [main] INFO  testCases.TC02_LoginTest - **** staring TC02_LoginTest ****
+14:37:44.948 [main] INFO  testCases.TC02_LoginTest - **** Finish TC02_LoginTest ****
+17:35:08.407 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\master.xml
+
+17:37:49.665 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\master.xml
+
+17:44:41.816 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\master.xml
+
+17:51:55.163 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\master.xml
+
+17:55:21.062 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\master.xml
+
+18:12:34.507 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\SeleniumwebDriver\Project01\master.xml
+
+18:12:42.311 [main] INFO  testCases.TC01_AccountRegistrationTest - **** Starting TC01_AccountRegistrationTest ****
+18:12:42.751 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Account link
+18:12:43.460 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on Register link
+18:12:43.469 [main] INFO  testCases.TC01_AccountRegistrationTest - Click on customer details.....
